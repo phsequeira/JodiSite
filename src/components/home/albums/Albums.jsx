@@ -1,0 +1,1 @@
+//shows the two most recent albums and has a link to all albums page
